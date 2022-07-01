@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aqib-khan-quiz-app/static/css/main.67ffe57d.css",
+    "main.js": "/aqib-khan-quiz-app/static/js/main.9d29e55b.js",
+    "static/js/787.3f825033.chunk.js": "/aqib-khan-quiz-app/static/js/787.3f825033.chunk.js",
+    "index.html": "/aqib-khan-quiz-app/index.html",
+    "main.67ffe57d.css.map": "/aqib-khan-quiz-app/static/css/main.67ffe57d.css.map",
+    "main.9d29e55b.js.map": "/aqib-khan-quiz-app/static/js/main.9d29e55b.js.map",
+    "787.3f825033.chunk.js.map": "/aqib-khan-quiz-app/static/js/787.3f825033.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ffe57d.css",
+    "static/js/main.9d29e55b.js"
+  ]
+}
